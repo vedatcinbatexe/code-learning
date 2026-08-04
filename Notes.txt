@@ -1,0 +1,41 @@
+# Roadmap #
+1. Programming Languages
+- C#
+- Javascript / TypeScript
+
+2. Frameworks & ORM/ODM Tools
+- .NET Core / EFCore
+- Node.js / Express.js / Nest.js / TypeORM / Sequelize
+- React / Redux / Next.js
+
+3. Databases
+- PostgreSQL
+- MongoDB
+
+4. APIs / Caching
+- REST
+- GraphQL
+- Redis
+- gRPC
+
+5. Microservices
+- Event-Driven Pattern / Saga Pattern / Outbox Pattern / CQRS / Event sourcing / Service Mesh
+- Circuit-breakers / Distributed Caching / Metrics
+
+6. Brokers / Cloud
+- Kafka: topics, partitions, consumer groups, offsets, replication factor
+- RabbitMQ: channels, communication wayy
+- Kafka vs RabbitMQ
+- Advanced Kafka
+- Advanced RabbitMQ
+- AWS: EC2, VPC, RDS, S3, EKS/ECS, IAM, CloudFront, Lambda
+- IaC: Terraform
+
+7. DevOps / Observability / Security / Portfolio
+- Github Actions
+- Docker: multi-stage builds, distroless images, layer caching, image scanning, Compose for local dev
+- Kubernetes: RBAC, Network Policies, OPA/Gatekeeper
+- Observability: OpenTelemetry, Prometheus, Grafana, Jeager, CloudWatch, GuardDuty, Inspector, Security Hub, X-Ray
+- OWASP Top 10 for APIs
+- SAST tools
+- Dependency Management
